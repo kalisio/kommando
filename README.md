@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Download Status](https://img.shields.io/npm/dm/@kalisio/kommando.svg?style=flat-square)](https://www.npmjs.com/package/@kalisio/kommando)
 
-> This project provisions an AWS EC2 instance running Ubuntu to run load tests with Artillery.
+> A Terraform solution for provisioning an AWS EC2 instance running Ubuntu for load testing.
 
 ![Load Testing Pipeline](./load-testing-pipeline.png)
 
